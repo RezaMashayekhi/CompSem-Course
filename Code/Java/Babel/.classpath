@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/babelscape-data-commons-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/commons-beanutils-core-1.7.0.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/commons-configuration-1.5.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/icu4j-56.1.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/jwi-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/lcl-jlt-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/lucene-analyzers-common-7.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/lucene-core-7.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/lucene-queries-7.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/lucene-queryparser-7.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/lucene-sandbox-7.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="/Users/reza/Documents/University/Grad/CompSem/BabelNet/BabelNet-API-4.0.1/babelnet-api-4.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

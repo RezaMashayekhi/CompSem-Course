@@ -1,0 +1,557 @@
+<?xml version="1.0" ?>
+<corpus lang="persian">
+    <text id="1">
+        <sentence id="0">
+            <wf lemma="من" pos="PRO">من</wf>
+            <wf lemma="طوری" pos="N">طوری</wf>
+            <instance id="عادت_کردن.V.0" lemma="عادت_کردن" pos="V">عادت_کردم</instance>
+            <wf lemma="که" pos="CONJ">که</wf>
+            <wf lemma="دنبال" pos="Pe">دنبال</wf>
+            <wf lemma="روی" pos="Ne">روی</wf>
+            <wf lemma="کس" pos="N">کسی</wf>
+            <wf lemma="بود" pos="V">نباشم</wf>
+            <wf lemma="به" pos="P">به</wf>
+            <wf lemma="استثنا" pos="Ne">استثنای</wf>
+            <wf lemma="مارک" pos="N">مارک</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="1">
+            <wf lemma="تو" pos="PRO">تو</wf>
+            <wf lemma="تو" pos="Pe">توی</wf>
+            <wf lemma="ایرلندی" pos="N">ایرلندی</wf>
+            <instance id="دانستن.V.1" lemma="دانستن" pos="V">می_دانستی</instance>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="2">
+            <wf lemma="جریان" pos="Ne">جریان</wf>
+            <wf lemma="این" pos="DET">این</wf>
+            <instance id="تورنمنت.N.2" lemma="تورنمنت" pos="N">تورنمنت</instance>
+            <wf lemma="چیه" pos="V">چیه</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="3">
+            <wf lemma="چطور" pos="ADV">چطوری</wf>
+            <wf lemma="به" pos="P">به</wf>
+            <instance id="نظر_رسمن.V.3" lemma="نظر_رسمن" pos="V">نظر_می_رسم</instance>
+            <wf lemma="رسم" pos="N">رسم</wf>
+            <wf lemma="به" pos="P">به</wf>
+            <wf lemma="نظر" pos="N">نظر</wf>
+            <wf lemma="میرسی" pos="V">میرسی</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="4">
+            <wf lemma="بدون" pos="Pe">بدون</wf>
+            <wf lemma="اینکه" pos="CONJ">اینکه</wf>
+            <wf lemma="منو" pos="PRO">منو</wf>
+            <instance id="ببینندن.V.4" lemma="ببینندن" pos="V">ببینند</instance>
+            <wf lemma="میتونم" pos="V">میتونم</wf>
+            <wf lemma="برد" pos="V">برم</wf>
+            <wf lemma="اونجا" pos="ADV">اونجا</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="5">
+            <wf lemma="چیز" pos="N">چیزهایی</wf>
+            <wf lemma="که" pos="CONJ">که</wf>
+            <wf lemma="میخواستم" pos="V">میخواستم</wf>
+            <wf lemma="بی" pos="P">بی</wf>
+            <instance id="معنی.N.5" lemma="معنی" pos="N">معنی</instance>
+            <wf lemma="به" pos="P">به</wf>
+            <wf lemma="نظر" pos="N">نظر</wf>
+            <wf lemma="میان" pos="V">میان</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="6">
+            <wf lemma="ایزولد" pos="N">ایزولد</wf>
+            <wf lemma="کجاست" pos="V">کجاست</wf>
+            <wf lemma="من" pos="PRO">من</wf>
+            <wf lemma="واقعا" pos="ADV">واقعا</wf>
+            <instance id="دانستن.V.6" lemma="دانستن" pos="V">نمی_دانم</instance>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="7">
+            <wf lemma="اگه" pos="CONJ">اگه</wf>
+            <wf lemma="تو" pos="PRO">تو</wf>
+            <instance id="گفتن.V.7" lemma="گفتن" pos="V">بگویی</instance>
+            <wf lemma="،" pos="PUNC">،</wf>
+            <wf lemma="آره" pos="N">آره</wf>
+            <wf lemma="" pos="V">هست</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="8">
+            <wf lemma="مثل" pos="ADVe">مثل</wf>
+            <wf lemma="این" pos="DET">این</wf>
+            <wf lemma="میمونه" pos="N">میمونه</wf>
+            <wf lemma="که" pos="CONJ">که</wf>
+            <wf lemma="از" pos="P">از</wf>
+            <wf lemma="من" pos="PRO">من</wf>
+            <instance id="خواستن.V.8" lemma="خواستن" pos="V">بخواهی</instance>
+            <wf lemma="نفس" pos="N">نفس</wf>
+            <wf lemma="کشید" pos="V">نکشم</wf>
+            <wf lemma="نه" pos="ADV">نه</wf>
+            <wf lemma="اینطوری" pos="N">اینطوری</wf>
+            <wf lemma="هم" pos="CONJ">هم</wf>
+            <wf lemma="نیست" pos="V">نیست</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="9">
+            <wf lemma="نتیجه" pos="Ne">نتیجه</wf>
+            <wf lemma="ی" pos="RES">ی</wf>
+            <instance id="حماقت.RES.9" lemma="حماقت" pos="RES">حماقت</instance>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="10">
+            <wf lemma="اون" pos="DET">اون</wf>
+            <wf lemma="سطوح" pos="Ne">سطوح</wf>
+            <wf lemma="انرژی" pos="N">انرژی</wf>
+            <wf lemma="بوسیله" pos="Pe">بوسیله</wf>
+            <wf lemma="ی" pos="N">ی</wf>
+            <instance id="میدان.Ne.10" lemma="میدان" pos="Ne">میدان</instance>
+            <wf lemma="مغناطیس" pos="AJ">مغناطیسی</wf>
+            <wf lemma="آشفته" pos="AJ">آشفته</wf>
+            <wf lemma="شده" pos="V">شده</wf>
+            <wf lemma="اند" pos="V">اند</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="11">
+            <wf lemma="یه" pos="NUM">یه</wf>
+            <wf lemma="مرد" pos="N">مرد</wf>
+            <wf lemma="باید" pos="V">باید</wf>
+            <instance id="فهمیده.V.11" lemma="فهمیده" pos="V">فهمیده</instance>
+            <wf lemma="باشه" pos="V">باشه</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="12">
+            <wf lemma="سروان" pos="N">سروان</wf>
+            <wf lemma="استیسی" pos="N">استیسی</wf>
+            <wf lemma="،" pos="PUNC">،</wf>
+            <wf lemma="اونا" pos="N">اونا</wf>
+            <wf lemma="باید" pos="V">باید</wf>
+            <wf lemma="مراقب" pos="AJe">مراقب</wf>
+            <wf lemma="خودشون" pos="PRO">خودشون</wf>
+            <wf lemma="بود" pos="V">باشند</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+            <wf lemma="اونها" pos="N">اونها</wf>
+            <wf lemma="نمیتونند" pos="V">نمیتونند</wf>
+            <instance id="جرثقیل.N.12" lemma="جرثقیل" pos="N">جرثقیل</instance>
+            <wf lemma="را" pos="POSTP">را</wf>
+            <wf lemma="خاموش" pos="AJ">خاموش</wf>
+            <wf lemma="کرد" pos="V">کنند</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="13">
+            <instance id="پارکر.N.13" lemma="پارکر" pos="N">پارکر</instance>
+            <wf lemma="دیر" pos="ADV">دیر</wf>
+            <wf lemma="کردی" pos="V">کردی</wf>
+            <wf lemma="شاید" pos="ADV">شاید</wf>
+            <wf lemma="خیلی" pos="ADV">خیلی</wf>
+            <wf lemma="دیر" pos="ADV">دیر</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="14">
+            <wf lemma="میدونی" pos="N">میدونی</wf>
+            <wf lemma="،" pos="PUNC">،</wf>
+            <instance id="خجالت.N.14" lemma="خجالت" pos="N">خجالت</instance>
+            <wf lemma="آوره" pos="V">آوره</wf>
+            <wf lemma="،" pos="PUNC">،</wf>
+            <wf lemma="اما" pos="CONJ">اما</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="15">
+            <wf lemma="نمیدونم" pos="Ne">نمیدونم</wf>
+            <wf lemma="تم" pos="Ne">تم</wf>
+            <wf lemma="خیلی" pos="ADV">خیلی</wf>
+            <instance id="محکم.ADV.15" lemma="محکم" pos="ADV">محکم</instance>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="16">
+            <wf lemma="اون" pos="DET">اون</wf>
+            <wf lemma="چه" pos="N">چه</wf>
+            <wf lemma="کاشت" pos="N">کاری</wf>
+            <wf lemma="بود" pos="V">بود</wf>
+            <wf lemma="اهمیت" pos="Ne">اهمیت</wf>
+            <wf lemma="نمیدی" pos="N">نمیدی</wf>
+            <wf lemma="که" pos="CONJ">که</wf>
+            <wf lemma="زنده" pos="AJ">زنده</wf>
+            <wf lemma="بمونی" pos="V">بمونی</wf>
+            <wf lemma="یا" pos="CONJ">یا</wf>
+            <instance id="مردن.V.16" lemma="مردن" pos="V">بمیری</instance>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="17">
+            <instance id="قیافه.N.17" lemma="قیافه" pos="N">قیافه</instance>
+            <wf lemma="براتون" pos="P">براتون</wf>
+            <wf lemma="آشنا" pos="AJ">آشنا</wf>
+            <wf lemma="نیست" pos="V">نیست</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="18">
+            <instance id="اوه.RES.18" lemma="اوه" pos="RES">اوه</instance>
+            <wf lemma="،" pos="PUNC">،</wf>
+            <wf lemma="من" pos="PRO">من</wf>
+            <wf lemma="متأسف" pos="V">متأسفم</wf>
+            <wf lemma="که" pos="CONJ">که</wf>
+            <wf lemma="اینو" pos="PRO">اینو</wf>
+            <wf lemma="میشنوم" pos="V">میشنوم</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="19">
+            <wf lemma="به" pos="P">به</wf>
+            <wf lemma="درست" pos="Ne">درستی</wf>
+            <wf lemma="یک" pos="NUM">یک</wf>
+            <instance id="توافق.Ne.19" lemma="توافق" pos="Ne">توافق</instance>
+            <wf lemma="قابل" pos="AJe">قابل</wf>
+            <wf lemma="توجهه" pos="N">توجهه</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="20">
+            <wf lemma="مرد" pos="Ne">مرد</wf>
+            <wf lemma="هلند" pos="AJ">هلندی</wf>
+            <wf lemma="همیشه" pos="ADV">همیشه</wf>
+            <wf lemma="باید" pos="V">باید</wf>
+            <wf lemma="یک" pos="NUM">یک</wf>
+            <instance id="کاپیتان.N.20" lemma="کاپیتان" pos="N">کاپیتان</instance>
+            <wf lemma="داشته" pos="V">داشته</wf>
+            <wf lemma="باشه" pos="V">باشه</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="21">
+            <instance id="لعنت.N.21" lemma="لعنت" pos="N">لعنت</instance>
+            <wf lemma="به" pos="P">به</wf>
+            <wf lemma="اون" pos="PRO">اون</wf>
+            <wf lemma="،" pos="PUNC">،</wf>
+            <wf lemma="کی" pos="ADV">کی</wf>
+            <wf lemma="میخوای" pos="N">میخوای</wf>
+            <wf lemma="از" pos="P">از</wf>
+            <wf lemma="چیز" pos="N">چیزهایی</wf>
+            <wf lemma="که" pos="CONJ">که</wf>
+            <wf lemma="داشت" pos="V">داری</wf>
+            <wf lemma="استفاده" pos="N">استفاده</wf>
+            <wf lemma="کرد" pos="V">بکنی</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="22">
+            <instance id="ولی.CONJ.22" lemma="ولی" pos="CONJ">ولی</instance>
+            <wf lemma="اگر" pos="CONJ">اگر</wf>
+            <wf lemma="برای" pos="Pe">برای</wf>
+            <wf lemma="فرداشب" pos="N">فرداشب</wf>
+            <wf lemma="کاشت" pos="N">کاری</wf>
+            <wf lemma="نداشته" pos="V">نداشته</wf>
+            <wf lemma="بود" pos="V">باشی</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="23">
+            <wf lemma="نمیتونم" pos="N">نمیتونم</wf>
+            <instance id="باور_کردن.V.23" lemma="باور_کردن" pos="V">باور_کنم</instance>
+            <wf lemma="که" pos="CONJ">که</wf>
+            <wf lemma="تو" pos="PRO">تو</wf>
+            <wf lemma="اجازه" pos="N">اجازه</wf>
+            <wf lemma="داد" pos="V">دادی</wf>
+            <wf lemma="این" pos="DET">این</wf>
+            <wf lemma="اتفاق" pos="N">اتفاق</wf>
+            <wf lemma="بی" pos="P">بی</wf>
+            <wf lemma="افته" pos="N">افته</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="24">
+            <instance id="نه.ADV.24" lemma="نه" pos="ADV">نه</instance>
+            <wf lemma="کار" pos="N">کاریش</wf>
+            <wf lemma="نداشته" pos="V">نداشته</wf>
+            <wf lemma="با" pos="V">باش</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="25">
+            <wf lemma="پیکان" pos="Ne">پیکانهای</wf>
+            <wf lemma="روی" pos="Pe">روی</wf>
+            <instance id="نقشه.N.25" lemma="نقشه" pos="N">نقشه</instance>
+            <wf lemma="را" pos="POSTP">را</wf>
+            <wf lemma="دنبال" pos="N">دنبال</wf>
+            <wf lemma="کن" pos="V">کن</wf>
+            <wf lemma="برو" pos="V">برو</wf>
+            <wf lemma="تو" pos="PRO">تو</wf>
+            <wf lemma="سلول" pos="Ne">سلول</wf>
+            <wf lemma="آخر" pos="NUM">آخری</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="26">
+            <wf lemma="چرا" pos="ADV">چرا</wf>
+            <wf lemma="اون" pos="DET">اون</wf>
+            <wf lemma="مارو" pos="N">مارو</wf>
+            <instance id="نجات_دادن.V.26" lemma="نجات_دادن" pos="V">نجات_داد</instance>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="27">
+            <instance id="دیروز.ADV.27" lemma="دیروز" pos="ADV">دیروز</instance>
+            <wf lemma="صحبت" pos="N">صحبت</wf>
+            <wf lemma="کرد" pos="V">کردیم</wf>
+            <wf lemma="شما" pos="PRO">شما</wf>
+            <wf lemma="یاد" pos="N">یادت</wf>
+            <wf lemma="نمییاد" pos="V">نمییاد</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="28">
+            <wf lemma="و" pos="CONJ">و</wf>
+            <wf lemma="روراست" pos="AJ">روراست</wf>
+            <wf lemma="بگم" pos="V">بگم</wf>
+            <wf lemma="فکر" pos="N">فکر</wf>
+            <wf lemma="نمیکنم" pos="V">نمیکنم</wf>
+            <instance id="مشکل.N.28" lemma="مشکل" pos="N">مشکلی</instance>
+            <wf lemma="وجود" pos="N">وجود</wf>
+            <wf lemma="داشته" pos="V">داشته</wf>
+            <wf lemma="باشه" pos="V">باشه</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="29">
+            <wf lemma="هفتاد" pos="NUM">هفتاد</wf>
+            <wf lemma="و" pos="CONJ">و</wf>
+            <wf lemma="شش" pos="NUM">شش</wf>
+            <wf lemma="حساب" pos="Ne">حساب</wf>
+            <wf lemma="؛‌" pos="N">؛‌</wf>
+            <wf lemma="20" pos="P">20</wf>
+            <instance id="متهم.N.29" lemma="متهم" pos="N">متهم</instance>
+            <wf lemma="؛" pos="PUNC">؛</wf>
+            <wf lemma="نمیدونم" pos="V">نمیدونم</wf>
+            <wf lemma="چندتا" pos="CONJ">چندتا</wf>
+            <wf lemma="وکیل" pos="N">وکیل</wf>
+            <wf lemma="برای" pos="Pe">برای</wf>
+            <wf lemma="متهما" pos="N">متهما</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="30">
+            <instance id="پس.CONJ.30" lemma="پس" pos="CONJ">پس</instance>
+            <wf lemma="معنیش" pos="N">معنیش</wf>
+            <wf lemma="اینه" pos="V">اینه</wf>
+            <wf lemma="که" pos="CONJ">که</wf>
+            <wf lemma="بعضی" pos="DET">بعضی</wf>
+            <wf lemma="وقتا" pos="N">وقتا</wf>
+            <wf lemma="هم" pos="CONJ">هم</wf>
+            <wf lemma="غلطه" pos="N">غلطه</wf>
+            <wf lemma="،" pos="PUNC">،</wf>
+            <wf lemma="درسته" pos="V">درسته</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="31">
+            <wf lemma="اعتراض" pos="N">اعتراض</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+            <wf lemma="این" pos="DET">این</wf>
+            <instance id="رفتار.N.31" lemma="رفتار" pos="N">رفتار</instance>
+            <wf lemma="،" pos="PUNC">،</wf>
+            <wf lemma="قابل" pos="AJe">قابل</wf>
+            <wf lemma="قبول" pos="AJ">قبول</wf>
+            <wf lemma="نیست" pos="V">نیست</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="32">
+            <wf lemma="بهت" pos="P">بهت</wf>
+            <wf lemma="اطمینان" pos="N">اطمینان</wf>
+            <wf lemma="میدهم" pos="V">میدهم</wf>
+            <wf lemma="جک" pos="N">جکی</wf>
+            <wf lemma="،" pos="PUNC">،</wf>
+            <wf lemma="فکر" pos="N">فکر</wf>
+            <instance id="شلیک_کردن.V.32" lemma="شلیک_کردن" pos="V">شلیک_کردن</instance>
+            <wf lemma="." pos="PUNC">.</wf>
+            <wf lemma="به" pos="P">به</wf>
+            <wf lemma="تو" pos="PRO">تو</wf>
+            <wf lemma="هیچوقت" pos="N">هیچوقت</wf>
+            <wf lemma="از" pos="P">از</wf>
+            <wf lemma="ذهن" pos="N">ذهنم</wf>
+            <wf lemma="عبور" pos="N">عبور</wf>
+            <wf lemma="کرد" pos="V">نکرده</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="33">
+            <wf lemma="دکتر" pos="N">دکتر</wf>
+            <wf lemma="ساید" pos="N">ساید</wf>
+            <instance id="فرضیه.N.33" lemma="فرضیه" pos="N">فرضیه</instance>
+            <wf lemma="گایا" pos="N">گایا</wf>
+            <wf lemma="ثابت" pos="AJ">ثابت</wf>
+            <wf lemma="شد" pos="V">نشده</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="34">
+            <wf lemma="کاپیتان" pos="N">کاپیتان</wf>
+            <wf lemma="خواهش" pos="N">خواهش</wf>
+            <wf lemma="میکنم" pos="V">میکنم</wf>
+            <wf lemma="آمد" pos="V">بیاید</wf>
+            <instance id="ادامه_دادن.V.34" lemma="ادامه_دادن" pos="V">ادامه_بدهیم</instance>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="35">
+            <wf lemma="میتونی" pos="V">میتونی</wf>
+            <instance id="هکش.N.35" lemma="هکش" pos="N">هکش</instance>
+            <wf lemma="کرد" pos="V">کنی</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="36">
+            <wf lemma="من" pos="PRO">من</wf>
+            <wf lemma="بهت" pos="P">بهت</wf>
+            <instance id="دروغ_گفتن.V.36" lemma="دروغ_گفتن" pos="V">دروغ_گفتم</instance>
+            <wf lemma="راجع" pos="N">راجع</wf>
+            <wf lemma="به" pos="P">به</wf>
+            <wf lemma="چی" pos="ADV">چی</wf>
+            <wf lemma="داشت" pos="V">داری</wf>
+            <wf lemma="حرف" pos="N">حرف</wf>
+            <wf lemma="میزنی" pos="V">میزنی</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="37">
+            <wf lemma="ازت" pos="P">ازت</wf>
+            <wf lemma="خواهش" pos="N">خواهش</wf>
+            <wf lemma="میکنم" pos="V">میکنم</wf>
+            <wf lemma="این" pos="DET">این</wf>
+            <wf lemma="ماشین" pos="Ne">ماشین</wf>
+            <wf lemma="لعنت" pos="AJ">لعنتی</wf>
+            <wf lemma="را" pos="POSTP">را</wf>
+            <instance id="روشن_کن.V.37" lemma="روشن_کن" pos="V">روشن_کن</instance>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="38">
+            <instance id="امروز.ADV.38" lemma="امروز" pos="ADV">امروز</instance>
+            <wf lemma="نه" pos="ADV">نه</wf>
+            <wf lemma="دیگه" pos="ADV">دیگه</wf>
+            <wf lemma="میتونی" pos="V">میتونی</wf>
+            <wf lemma="کد" pos="N">کد</wf>
+            <wf lemma="را" pos="POSTP">را</wf>
+            <wf lemma="شکست" pos="V">بشکنی</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="39">
+            <wf lemma="او" pos="PRO">او</wf>
+            <wf lemma="خانه" pos="Ne">خانه</wf>
+            <wf lemma="اش" pos="N">اش</wf>
+            <wf lemma="را" pos="POSTP">را</wf>
+            <wf lemma="بر" pos="P">بر</wf>
+            <wf lemma="بستر" pos="Ne">بستر</wf>
+            <instance id="دریا.N.39" lemma="دریا" pos="N">دریا</instance>
+            <wf lemma="بنا" pos="N">بنا</wf>
+            <wf lemma="نهاد" pos="V">نهاد</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+            <wf lemma="در" pos="P">در</wf>
+            <wf lemma="کاخ" pos="N">کاخی</wf>
+            <wf lemma="از" pos="P">از</wf>
+            <wf lemma="مرجان" pos="N">مرجان</wf>
+            <wf lemma="و" pos="CONJ">و</wf>
+            <wf lemma="جواهر" pos="N">جواهر</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="40">
+            <wf lemma="عالیه" pos="AJ">عالیه</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+            <instance id="دست.N.40" lemma="دست" pos="N">دست</instance>
+            <wf lemma="را" pos="POSTP">را</wf>
+            <wf lemma="بذار" pos="V">بذار</wf>
+            <wf lemma="بالا" pos="ADV">بالا</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="41">
+            <wf lemma="هوا" pos="N">هوا</wf>
+            <wf lemma="را" pos="POSTP">را</wf>
+            <instance id="گداخته.V.41" lemma="گداخته" pos="V">گداخته</instance>
+            <wf lemma="میکنه" pos="V">میکنه</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+            <wf lemma="ریه" pos="N">ریهها</wf>
+            <wf lemma="را" pos="POSTP">را</wf>
+            <wf lemma="مثل" pos="ADVe">مثل</wf>
+            <wf lemma="کاغذ" pos="N">کاغذ</wf>
+            <wf lemma="میسوزونه" pos="V">میسوزونه</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="42">
+            <wf lemma="خیلی" pos="ADV">خیلی</wf>
+            <wf lemma="خوب" pos="AJ">خوب</wf>
+            <wf lemma="،" pos="PUNC">،</wf>
+            <wf lemma="بر" pos="P">بر</wf>
+            <wf lemma="میگردیم" pos="Ne">میگردیم</wf>
+            <instance id="بالا.AJ.42" lemma="بالا" pos="AJ">بالا</instance>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="43">
+            <wf lemma="یه" pos="NUM">یه</wf>
+            <wf lemma="خرده" pos="N">خرده</wf>
+            <wf lemma="آرومتر" pos="AJ">آرومتر</wf>
+            <instance id="حرف_زدن.V.43" lemma="حرف_زدن" pos="V">حرف_بزن</instance>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="44">
+            <wf lemma="کسانی" pos="N">کسانی</wf>
+            <wf lemma="که" pos="CONJ">که</wf>
+            <wf lemma="حکم" pos="Ne">حکم</wf>
+            <wf lemma="تبرئه" pos="Ne">تبرئه</wf>
+            <wf lemma="متهم" pos="N">متهم</wf>
+            <wf lemma="از" pos="P">از</wf>
+            <wf lemma="تمام" pos="DETe">تمامی</wf>
+            <instance id="اتهام.N.44" lemma="اتهام" pos="N">اتهام</instance>
+            <wf lemma="را" pos="POSTP">را</wf>
+            <wf lemma="میدهند" pos="V">میدهند</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="45">
+            <wf lemma="من" pos="PRO">من</wf>
+            <wf lemma="یک" pos="NUM">یک</wf>
+            <wf lemma="زن" pos="Ne">زن</wf>
+            <instance id="آرام.AJ.45" lemma="آرام" pos="AJ">آرام</instance>
+            <wf lemma="" pos="V">هستم</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="46">
+            <wf lemma="پاتر" pos="N">پاتر</wf>
+            <wf lemma="میتونه" pos="V">میتونه</wf>
+            <wf lemma="چیز" pos="N">چیزهایی</wf>
+            <wf lemma="بیشتر" pos="AJ">بیشتری</wf>
+            <wf lemma="درباره" pos="Pe">درباره</wf>
+            <wf lemma="موقع" pos="Ne">موقع</wf>
+            <instance id="مرگ.N.46" lemma="مرگ" pos="N">مرگ</instance>
+            <wf lemma="دیگوری" pos="N">دیگوری</wf>
+            <wf lemma="بگه" pos="V">بگه</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="47">
+            <wf lemma="طلسم" pos="Ne">طلسم</wf>
+            <wf lemma="شکنجه" pos="N">شکنجه</wf>
+            <wf lemma="گر" pos="CONJ">گر</wf>
+            <wf lemma="را" pos="POSTP">را</wf>
+            <wf lemma="روی" pos="Pe">روی</wf>
+            <instance id="پدر_و_مادر.Ne.47" lemma="پدر_و_مادر" pos="Ne">پدر_و_مادر</instance>
+            <wf lemma="مادر" pos="N">مادر</wf>
+            <wf lemma="اجرا" pos="N">اجرا</wf>
+            <wf lemma="کرد" pos="V">کرد</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="48">
+            <instance id="تلاش.Ne.48" lemma="تلاش" pos="Ne">تلاش</instance>
+            <wf lemma="شما" pos="PRO">شما</wf>
+            <wf lemma="برای" pos="Pe">برای</wf>
+            <wf lemma="در" pos="P">در</wf>
+            <wf lemma="اختیار" pos="N">اختیار</wf>
+            <wf lemma="گرفتن" pos="Ne">گرفتن</wf>
+            <wf lemma="وزارت" pos="Ne">وزارت</wf>
+            <wf lemma="جادو" pos="N">جادو</wf>
+            <wf lemma="،" pos="PUNC">،</wf>
+            <wf lemma="در" pos="P">در</wf>
+            <wf lemma="پرده" pos="Ne">پرده</wf>
+            <wf lemma="ای" pos="N">ای</wf>
+            <wf lemma="از" pos="P">از</wf>
+            <wf lemma="ابهام" pos="N">ابهام</wf>
+            <wf lemma="قرار" pos="N">قرار</wf>
+            <wf lemma="داره" pos="V">داره</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+        <sentence id="49">
+            <wf lemma="من" pos="PRO">من</wf>
+            <wf lemma="خیلی" pos="ADV">خیلی</wf>
+            <wf lemma="سعی" pos="N">سعی</wf>
+            <wf lemma="کرد" pos="V">کردم</wf>
+            <wf lemma="که" pos="CONJ">که</wf>
+            <wf lemma="کمک" pos="N">کمکی</wf>
+            <wf lemma="کرده" pos="V">کرده</wf>
+            <wf lemma="بود" pos="V">باشم</wf>
+            <wf lemma="،" pos="PUNC">،</wf>
+            <wf lemma="اما" pos="CONJ">اما</wf>
+            <wf lemma="فقط" pos="ADV">فقط</wf>
+            <wf lemma="کارهارو" pos="N">کارهارو</wf>
+            <instance id="خراب.AJ.49" lemma="خراب" pos="AJ">خراب</instance>
+            <wf lemma="تر" pos="AJ">تر</wf>
+            <wf lemma="کرد" pos="V">کردم</wf>
+            <wf lemma="." pos="PUNC">.</wf>
+        </sentence>
+    </text>
+</corpus>
