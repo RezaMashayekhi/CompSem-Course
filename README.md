@@ -13,5 +13,5 @@ create silver training dataset for Persian. For creating the Persian silver data
 | WordNet  | 288024 | - |
 | Creeated dataset  | 10612 | 1.7 |
 
-Since we only translated a small part of the English training dataset, the generated Persian dataseet is small and doesn' cover all the senses in WordNet. 
-The purpose of the project was learning the process and creating the bilingual WordNet and the accuracy due to lack of resources was not a concern.
+Since I only translated a small part of the English training dataset, the generated Persian dataseet is small and doesn' cover all the senses in WordNet. 
+The purpose of the project was learning the process and creating the bilingual WordNet and the low F1 due to lack of resources was not a concern.
